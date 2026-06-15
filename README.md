@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Flutter Developer · Full-Stack Enthusiast · Building production apps</b><br/>
-  <sub>10 months of professional experience · Based in India · Open to new opportunities</sub>
+  <sub>1+ year of professional experience · Based in India · Open to new opportunities</sub>
 </p>
 
 ---
@@ -10,10 +10,11 @@
 ### 🧑‍💻 About Me
 
 - 🏢 Currently building at **Lixta Network** — writing backend logic, Flutter frontend, and making product decisions
-- 📱 10 months of professional Flutter + Dart experience, with full-stack exposure (Node.js, Firebase)
+- 📱 1+ year of professional Flutter + Dart experience, with full-stack exposure (Node.js, Firebase)
 - 🎯 Actively looking for **Flutter / Full-Stack / Backend roles**
-- 🔭 Currently building [Tracket](https://github.com/shaikhikram04/Tracket) — a production-grade habit & task tracking app with 1,000+ commits
-- 🧠 Strong math background · into DSA, reverse engineering & CTF challenges
+- 🔏 Currently building **[Cinemora](https://github.com/shaikhikram04/Cinemora)** — an AI-powered cinema recommendation app with mood-based suggestions, watch history, and social features
+- 🏏 Also shipped **[Tracket](https://github.com/shaikhikram04/Tracket)** — a production-grade Cricket Scoring app with 1,000+ commits
+- 🧠 Strong math background · passionate about DSA and problem solving
 - 💬 Ask me about Flutter architecture, state management, or API integration
 
 ---
@@ -42,9 +43,12 @@
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-**[Tracket](https://github.com/shaikhikram04/Tracket)** — Production Flutter app · 1,000+ commits · Habit & task tracking with cloud sync, image uploads via ImageKit, and cross-platform support.
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [Tracket](https://github.com/shaikhikram04/Tracket) | Production Cricket Scoring app · 1,000+ commits · Cloud sync & cross-platform | Flutter, Firebase, ImageKit |
+| Cinemora 🔒 | AI-powered cinema app · Mood-based recommendations · Watch history & rankings | Flutter, Node.js, MongoDB, Gemini AI |
 
 ---
 
@@ -53,6 +57,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaikhikram04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhikram04&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shaikhikram04&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
